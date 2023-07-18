@@ -4,3 +4,9 @@ AIM: 1.Store & Display values in different variable of different type (Integer, 
 
 
 Completed Practical-1.1
+
+AIM: 2.Type conversion:
+Integer to Double, String to Integer, String to Double.
+![image](https://github.com/Sajid59004/MAD_Practical-1_21012021004/assets/97504754/403cab3f-d438-4067-bfc7-8c5dce34ecae)
+Practical-1.2 is completed.
+
