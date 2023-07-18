@@ -12,3 +12,8 @@ Integer to Double, String to Integer, String to Double.
 
 Practical-1.2 is completed.
 
+AIM: 3.Scan student’s information and display all the data.
+
+![image](https://github.com/Sajid59004/MAD_Practical-1_21012021004/assets/97504754/c8ea09f2-0e93-470c-9f17-70e28b8209da)
+
+Practical-1.3 is completed.
