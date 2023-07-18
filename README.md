@@ -17,3 +17,9 @@ AIM: 3.Scan student’s information and display all the data.
 ![image](https://github.com/Sajid59004/MAD_Practical-1_21012021004/assets/97504754/c8ea09f2-0e93-470c-9f17-70e28b8209da)
 
 Practical-1.3 is completed.
+
+AIM: 4.Find the number is odd or even by using Control Flow inside println() method.
+
+![image](https://github.com/Sajid59004/MAD_Practical-1_21012021004/assets/97504754/69b6ecbb-cc0d-49d6-8413-2a962c62c81a)
+
+Practical-1.4 is completed.
