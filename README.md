@@ -30,5 +30,8 @@ AIM : 5.Display month name using When.
 
 Practical-1.5 is completed.
 
+AIM:  6.By using a user defined function perform all arithmetic operations.
 
+![image](https://github.com/Sajid59004/MAD_Practical-1_21012021004/assets/97504754/c13be5f6-1cb4-4a59-aa13-b0146d48971f)
 
+Practical-1.6 is completed.
