@@ -23,3 +23,12 @@ AIM: 4.Find the number is odd or even by using Control Flow inside println() met
 ![image](https://github.com/Sajid59004/MAD_Practical-1_21012021004/assets/97504754/69b6ecbb-cc0d-49d6-8413-2a962c62c81a)
 
 Practical-1.4 is completed.
+
+AIM : 5.Display month name using When.
+
+![image](https://github.com/Sajid59004/MAD_Practical-1_21012021004/assets/97504754/823b4b73-5af5-4caf-8c1a-f6f9b1f85add)
+
+Practical-1.5 is completed.
+
+
+
