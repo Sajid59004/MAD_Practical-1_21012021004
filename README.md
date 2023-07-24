@@ -35,3 +35,9 @@ AIM:  6.By using a user defined function perform all arithmetic operations.
 ![image](https://github.com/Sajid59004/MAD_Practical-1_21012021004/assets/97504754/c13be5f6-1cb4-4a59-aa13-b0146d48971f)
 
 Practical-1.6 is completed.
+
+AIM : 7.Find the factorial of number by recursion. 
+
+![image](https://github.com/Sajid59004/MAD_Practical-1_21012021004/assets/97504754/5a863699-9ef3-4d68-84c2-d6d5e72cf731)
+
+Practical-1.7 is completed.
