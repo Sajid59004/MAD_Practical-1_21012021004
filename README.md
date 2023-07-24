@@ -41,3 +41,18 @@ AIM : 7.Find the factorial of number by recursion.
 ![image](https://github.com/Sajid59004/MAD_Practical-1_21012021004/assets/97504754/5a863699-9ef3-4d68-84c2-d6d5e72cf731)
 
 Practical-1.7 is completed.
+
+AIM: 8.Create different types of Array as shown in image. Explore Arrays.deepToString(), contentDeepToString() methods, IntArray variable .joinToString()  and use in program to print Array. Explore range, downTo, until etc. for loop and use in this program. Sort Array of Integer data type without using inbuilt function & with using inbuilt function.
+
+![image](https://github.com/Sajid59004/MAD_Practical-1_21012021004/assets/97504754/cc79ffe1-1aac-4f0d-8d27-78ac1a660bdf)
+
+Practical-1.8 is completed.
+
+AIM: 9.MAX from array.
+
+![image](https://github.com/Sajid59004/MAD_Practical-1_21012021004/assets/97504754/5ce0d72f-a990-4b35-a14e-56aa1e5fc29e)
+
+Practical-1.9 is completed.
+
+
+
