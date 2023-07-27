@@ -42,7 +42,7 @@ fun main(){
     user.sort()
     println(user.contentToString())
 
-    val a7 = intArrayOf(45,96,689,593,-45,-76,-453,-56)
+    val a7 = intArrayOf(12,32,64,53,45,-6,-43,-56)
     println("========================== Without In-Built Function ==========================")
     println("Array Sorted without in-built Function = ")
     println(user.contentToString())
